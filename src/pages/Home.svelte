@@ -9,7 +9,7 @@
  } from '../config.js';
  // conponent 
  import Hero from '../components/Hero.svelte';
- import Search from "../components/search.svelte";
+ import Search from "../components/Search.svelte";
  import Grid from "../components/Grid.svelte";
  import Thumb from "../components/Thumb.svelte";
  import LoadMoreButton from "../components/LoadMoreButton.svelte";
